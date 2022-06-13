@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimmycooney94
-- 👀 I’m interested in developing software to solve problems and make lives easier
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning Javascript, HTML and CSS
 
 <!---
